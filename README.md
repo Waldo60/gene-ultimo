@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/ThonyDroidYT/TD-Gen/master/MultiGen/VPS-M
 
 
 
-``wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh;./instgerador.sh`
+`wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh;./instgerador.sh`
 
 =======================================================================
 
