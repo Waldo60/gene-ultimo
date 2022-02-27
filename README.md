@@ -12,9 +12,9 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
  wget -O /usr/bin/trans https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/Install/trans
  
- https://raw.githubusercontent.com/ThonyDroidYT/TD-Gen/master/MultiGen/VPS-MX/instgerador.sh
+wget https://raw.githubusercontent.com/ThonyDroidYT/TD-Gen/master/MultiGen/VPS-MX/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
 
-``wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh``
+``wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh``
 
 =======================================================================
 
