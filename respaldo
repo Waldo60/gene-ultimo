@@ -60,6 +60,7 @@ echo -e "\033[1;31m- \033[1;32mRecebido Com Sucesso!"
 } || echo -e "\033[1;31m- \033[1;31mFalha (nao recebido!)"
 done
 [[ ! -e /usr/bin/trans ]] && wget -O /usr/bin/trans https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/Install/trans &> /dev/null
+wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/gerador/gerar.sh; chmod +x gerar.sh &> /dev/null 
 [[ -e /bin/http-server.py ]] && mv -f /bin/http-server.py /bin/http-server.sh && chmod +x /bin/http-server.sh
 [[ $(dpkg --get-selections|grep -w "bc"|head -1) ]] || apt-get install bc -y &>/dev/null
 [[ $(dpkg --get-selections|grep -w "screen"|head -1) ]] || apt-get install screen -y &>/dev/null
