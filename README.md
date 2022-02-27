@@ -9,6 +9,7 @@ Generador De Key NEWADM
 3 • ESTE SCRIPT INSTALARA EL GENERADOR Y SCRIPT NEW-ULTIMATE CON TODOS SUS ARCHIVOS ORIGINALES Y SIN MODIFICAR
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
+
 wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
 =======================================================================
 
