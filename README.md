@@ -11,6 +11,7 @@ Generador De Key NEWADM
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
 
 wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
+
 =======================================================================
 
 NEW - ADM - MANAGER ( OFICIAL ) PARA QUE USEN SU GENERADOR DE KEY
