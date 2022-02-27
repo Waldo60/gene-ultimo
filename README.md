@@ -6,7 +6,6 @@
 
 3 • ESTE SCRIPT INSTALARA EL GENERADOR Y SCRIPT NEW-ULTIMATE CON TODOS SUS ARCHIVOS ORIGINALES Y SIN MODIFICAR
 
-`wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh;./instgerador.sh`
+``wget https://raw.githubusercontent.com/Waldo60/gene-ultimo/master/instgerador.sh; chmod 777 instgerador.sh;./instgerador.sh``
 
-=======================================================================
 
